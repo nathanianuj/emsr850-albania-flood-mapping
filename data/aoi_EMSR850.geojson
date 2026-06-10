@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aoi_EMSR850",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.35700701, 39.92860007 ], [ 20.33917455, 39.92860007 ], [ 20.33917455, 41.96288215 ], [ 19.35700701, 41.96288215 ], [ 19.35700701, 39.92860007 ] ] ] } }
+]
+}
