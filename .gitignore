@@ -1,0 +1,31 @@
+# Large satellite data files — too big for GitHub
+data/sentinel1/
+data/sentinel2/
+data/dem/
+data/meteo/
+data/exposure/
+processing/
+*.SAFE/
+*.zip
+*.dim
+*.img
+*.hdr
+
+# Credentials — NEVER commit these
+cdse_credentials.json
+.cdse_token
+*.json.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+emsr850_env/
+.env
+
+# Output large files
+outputs/final_dataset/*.tif
+
+# System
+.DS_Store
+*.log

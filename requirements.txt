@@ -1,0 +1,11 @@
+rasterio
+geopandas
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+requests
+tqdm
+earthengine-api
+contextily
